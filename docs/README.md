@@ -23,6 +23,7 @@ The inaugural `ACT` tutorial will be held at [MICRO 2022](https://www.microarch.
 
 
 ## Sign up for updates
+If you are attending the `ACT` tutorial or interested in being part of the `ACT` community please [sign up here](https://forms.gle/uRTRCeEgf67VBW197).
 
 ## Citation
 If you use `ACT`, please cite us: 
