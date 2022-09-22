@@ -8,6 +8,19 @@
 **This tutorial:** A fundamental bottleneck to conducting sustainability aware hardware design space exploration and optimization is the lack of carbon accounting tools. To address this gap, here we propose a tutorial for ACT, the first-of-its-kind architectural carbon modeling tool. ACT enables computer architects to quantify the embodied carbon footprint of hardware during early design space exploration — allowing designers to consider carbon as a first-order optimization target alongside performance, power, and energy. In this tutorial, we aim to provide a holistic overview of the sustainability implications of modern computer systems at the datacenter and mobile scale (motivation for ACT), an overview of the proposed ACT methodology, hands on demonstration for how to use ACT, and hands on demonstration for how to extend ACT in new ways. We believe such a tutorial will build a strong foundation for researchers across computer architecture, circuits and VLSI, and systems, to incorporate carbon analyses in their research.
 
 ## This tutorial
+The inaugural `ACT` tutorial will be held at [MICRO 2022](https://www.microarch.org/micro55/) in Chicago and presented by Udit Gupta.
+
+| Time  | Topic | Link |
+| ------------- | :-------------: | :-------: |
+| 9:00 - 9:15am  | Introduction to `ACT`  | Link coming |
+| 9:15 - 9:30am  | Sustainable Computing: Motivation and Challenges  | Link coming |
+| 9:30 - 10:15am  | Overview of `ACT`: An Architectural Carbon Modeling Tool  | Link coming |
+| 10:15 - 10:30am  | _Coffee Break_  |
+| 10:30 - 11:00am  | **Demo**: How to use `ACT`  | Link coming | 
+| 11:00 - 11:15am  | **Demo**: How to extend `ACT`  | Link coming | 
+| 11:15 - 11:45am  | _Office hours_: `ACT` and sustainable computing  | 
+| 11:45 - 12:00pm  | Closing remarks  | Link coming | 
+
 
 ## Sign up for updates
 
@@ -26,3 +39,6 @@ If you use `ACT`, please cite us:
 
 ## Contact us
 For any further questions please contact <ug28@cornell.edu>
+
+## About us
+
