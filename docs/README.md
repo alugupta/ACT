@@ -12,14 +12,14 @@ The inaugural `ACT` tutorial will be held at [MICRO 2022](https://www.microarch.
 
 | Time  | Topic | Link |
 | ------------- | :-------------: | :-------: |
-| 9:00 - 9:15am  | Introduction to `ACT`  | Link coming |
-| 9:15 - 9:30am  | Sustainable Computing: Motivation and Challenges  | Link coming |
-| 9:30 - 10:15am  | Overview of `ACT`: An Architectural Carbon Modeling Tool  | Link coming |
-| 10:15 - 10:30am  | _Coffee Break_  |
-| 10:30 - 11:00am  | **Demo**: How to use `ACT`  | Link coming | 
-| 11:00 - 11:15am  | **Demo**: How to extend `ACT`  | Link coming | 
-| 11:15 - 11:45am  | _Office hours_: `ACT` and sustainable computing  | 
-| 11:45 - 12:00pm  | Closing remarks  | Link coming | 
+| 1:00 - 1:15pm  | Introduction to `ACT`  | Link coming |
+| 1:15 - 1:30pm  | Sustainable Computing: Motivation and Challenges  | Link coming |
+| 1:30 - 2:15pm  | Overview of `ACT`: An Architectural Carbon Modeling Tool  | Link coming |
+| 2:15 - 2:30pm  | _Coffee Break_  |
+| 2:30 - 3:00pm  | **Demo**: How to use `ACT`  | Link coming | 
+| 3:00 - 3:15pm  | **Demo**: How to extend `ACT`  | Link coming | 
+| 3:15 - 3:45am  | _Office hours_: `ACT` and sustainable computing  | 
+| 3:45 - 4:00pm  | Closing remarks  | Link coming | 
 
 
 ## Sign up for updates
