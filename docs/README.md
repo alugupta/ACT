@@ -12,9 +12,9 @@ The inaugural `ACT` tutorial will be held at [MICRO 2022](https://www.microarch.
 
 | Time  | Topic | Link |
 | ------------- | :-------------: | :-------: |
-| 1:00 - 1:15pm  | Introduction to `ACT`  | Link coming |
-| 1:15 - 1:30pm  | Sustainable Computing: Motivation and Challenges  | Link coming |
-| 1:30 - 2:15pm  | Overview of `ACT`: An Architectural Carbon Modeling Tool  | Link coming |
+| 1:00 - 1:15pm  | Introduction to `ACT`  | [[PDF](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pdf/ACT_MICRO_motivation_intro.pdf)] [[PPT](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pptx/ACT_MICRO_motivation_intro.pptx)] |
+| 1:15 - 1:30pm  | Sustainable Computing: Motivation and Challenges  | [[PDF](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pdf/ACT_MICRO_motivation_tutorial.pdf)] [[PPT](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pptx/ACT_MICRO_motivation.pptx)] |
+| 1:30 - 2:15pm  | Overview of `ACT`: An Architectural Carbon Modeling Tool  | [[PDF](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pdf/ACT_MICRO_model.pdf)] [[PPT](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pptx/ACT_MICRO_model.pptx)] |
 | 2:15 - 2:30pm  | _Coffee Break_  |
 | 2:30 - 3:00pm  | **Demo**: How to use `ACT`  | Link coming | 
 | 3:00 - 3:15pm  | **Demo**: How to extend `ACT`  | Link coming | 
