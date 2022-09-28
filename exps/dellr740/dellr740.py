@@ -26,7 +26,7 @@ dellr740_large_ssd = 3840 # GB (3.84 TB x 8 SSD's)
 dellr740_ssd       = 400 # GB (400GB x 1 SSD)
 dellr740_ssd_dram  = 68 # GB (64 + 4GB ECC)
 dellr740_dram      = 36 # GB (32 + 4 ECC GB x 12)
-ic_yield           = 0.875
+ic_yield           = 0.875 # upper bound given the size of HPC chips (lower yield)
 
 cpu_area = 6.98 #cm^2
 
@@ -60,9 +60,11 @@ SSD_secondary.set_capacity(dellr740_ssd)
 # Computing the packaging footprint
 ##################################
 # number of packages
-ssd_main_nr         = 12 + 1
-ssd_secondary_nr    = 12 + 1
-dram_nr             = 18 + 1
+# https://www.delltechnologies.com/asset/en-us/products/servers/technical-support/Full_LCA_Dell_R740.pdf
+# page 25
+ssd_main_nr         = 8 + 5 # number of chips within SSD
+ssd_secondary_nr    = 8 + 5 # number of chips within SSD
+dram_nr             = 18 # number of chips within DRAM
 cpu_nr              = 2
 packaging_intensity = 150 # gram CO2
 
