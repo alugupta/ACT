@@ -16,10 +16,10 @@ The inaugural `ACT` tutorial will be held at [MICRO 2022](https://www.microarch.
 | 1:15 - 1:30pm  | Sustainable Computing: Motivation and Challenges  | [[PDF](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pdf/ACT_MICRO_motivation_tutorial.pdf)] [[PPT](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pptx/ACT_MICRO_motivation.pptx)] |
 | 1:30 - 2:15pm  | Overview of `ACT`: An Architectural Carbon Modeling Tool  | [[PDF](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pdf/ACT_MICRO_model.pdf)] [[PPT](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pptx/ACT_MICRO_model.pptx)] |
 | 2:15 - 2:30pm  | _Coffee Break_  |
-| 2:30 - 3:00pm  | **Demo**: How to use `ACT`  | Link coming | 
-| 3:00 - 3:15pm  | **Demo**: How to extend `ACT`  | Link coming | 
+| 2:30 - 3:00pm  | **Demo**: How to use `ACT`  | [[PDF](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pdf/ACT_MICRO_hands_on.pdf)][[PPT](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pptx/ACT_MICRO_hands_on.pptx)] | 
+| 3:00 - 3:15pm  | **Demo**: How to extend `ACT`  | [[PDF](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pdf/ACT_MICRO_hands_on.pdf)][[PPT](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pptx/ACT_MICRO_hands_on.pptx)] | 
 | 3:15 - 3:45am  | _Office hours_: `ACT` and sustainable computing  | 
-| 3:45 - 4:00pm  | Closing remarks  | Link coming | 
+| 3:45 - 4:00pm  | Closing remarks  | [[PDF](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pdf/ACT_MICRO_Conclusion.pdf)][[PPT](https://github.com/alugupta/ACT/blob/main/tutorial/slides/pptx/ACT_MICRO_Conclusion.pptx)] | 
 
 
 ## Sign up for updates
